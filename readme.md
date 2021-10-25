@@ -1,3 +1,5 @@
+https://github.com/rusefi/rusefi and https://github.com/mck1117/proteus
+
 76 pin
 
 2 gen DSM
