@@ -1,6 +1,12 @@
 76 pin
 
-1995-1999 Mitsubishi Eclipse and Eagle Talon Turbo DSM ECU Pinouts
+2 gen DSM
+1995-1999 Mitsubishi Eclipse and Eagle Talon Turbo DSM ECU Pinouts 
+
+v6
+
+Lancer up to 2005?
+
 
 Our document, need work
 [Connector Pinout Spreadsheet, with links to wiring drawings](https://docs.google.com/spreadsheets/d/1ZlcC5cdCwjYoV-z49MNaa9zpLiu_ZYBIx5H-j0F6QpI)
