@@ -26,3 +26,6 @@ http://www.stealth316.com/2-ecu-terminals.htm
 Compatible case:
 
 MD329098
+
+
+![x](proteus-mitsubishi76-adapter-rev-A.jpg)
